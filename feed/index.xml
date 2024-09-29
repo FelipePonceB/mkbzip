@@ -12,20 +12,38 @@
 	<atom:link href="https://felipeponceb.github.io/mkbzip/feed/" rel="self" type="application/rss+xml" />
 	<link>https://felipeponceb.github.io/mkbzip</link>
 	<description>Marketing Digital</description>
-	<lastBuildDate>Thu, 25 Jul 2024 22:42:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Aug 2024 21:32:13 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>https://felipeponceb.github.io/mkbzip/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-01-at-15.08.03-3.jpg</url>
+	<url>https://felipeponceb.github.io/mkbzip/wp-content/uploads/2024/08/cropped-WhatsApp-Image-2024-06-01-at-15.08.04-2-32x32.jpeg</url>
 	<title>MKB</title>
 	<link>https://felipeponceb.github.io/mkbzip</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>fdfdfdfdfd</title>
+		<link>https://felipeponceb.github.io/mkbzip/fdfdfdfdfd/</link>
+					<comments>https://felipeponceb.github.io/mkbzip/fdfdfdfdfd/#respond</comments>
+		
+		<dc:creator><![CDATA[mkbwp]]></dc:creator>
+		<pubDate>Wed, 07 Aug 2024 21:32:13 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">https://felipeponceb.github.io/mkbzip/?p=1795</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://felipeponceb.github.io/mkbzip/fdfdfdfdfd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

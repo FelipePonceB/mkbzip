@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WPForms\Admin\Education\StringsTrait&quot; not found in <b>C:\xampp\htdocs\mkb\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php</b> on line <b>10</b><br>
